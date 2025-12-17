@@ -2,7 +2,7 @@
     margin: 8px;
 }
 body {
-    background-image: url(Imagens/anime-capa.png);
+    background-image: url(Imagens/capa-de-fundo.png);
     background-color: black;
     font-family: sans-serif;
     font-weight: bolder;
@@ -21,7 +21,6 @@ header h1 {
 nav a {
      display: inline-block;
      margin: 20px 100px 20px 20px;
-     background-color: white;
 }
 
 a:hover {
@@ -49,11 +48,4 @@ h2 {
     font-size: 28px;
     font-weight: bolder;  
 }
-.solo {
-       text-align: center;
-}
-.box {
-      text-align: center;
-      color: black;
-      background-color:white;
-}
+
