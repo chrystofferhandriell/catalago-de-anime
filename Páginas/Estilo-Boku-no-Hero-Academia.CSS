@@ -1,0 +1,38 @@
+body {
+    background-image: url(Imagens/capa-fundo-boku-no-hero.jpg);
+    background-size: 100%;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+ .solo {
+        display: inline-block;
+        font-weight: 700;
+        text-align: center;
+        margin: 30px 30px 30px 30px;
+        font-size: 18px;
+ }
+ a:hover {
+          color: red;
+ }
+  
+ a:visited {
+            color: yellow;
+ }
+ header h1 {
+            text-align: center;
+            text-decoration: underline;
+            font-size: xx-large;
+            margin-top: 40px;
+            font-size: 48px;
+ }
+  .veluz {
+             text-align: center;
+  }
+  .vex{
+      text-align: center;
+      display: inline-block;
+      border: 3px solid white;
+      background-color: black;
+  }

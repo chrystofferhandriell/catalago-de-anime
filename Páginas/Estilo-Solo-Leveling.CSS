@@ -1,0 +1,58 @@
+* {
+    margin: 10px 10px 10px 10px;
+}
+body {
+     background-image: url(https://wallpaperaccess.com/full/5399311.jpg);
+     background-size: 100%;
+     color: white;
+     font-family: sans-serif;
+}
+header{
+       text-align: center;
+       text-decoration: underline;
+       font-size: xx-large;
+       
+}
+nav div {
+     display: inline-block;
+     margin: 20px 20px 20px 20px;
+     font-weight: bolder;
+}
+a:hover {
+        color: red;
+}
+a:visited {
+           color: yellow;
+}
+
+
+.box {
+  display: flex;
+  margin-left: 20px;
+}
+
+span {
+     background-color: black;
+     padding: 3px 3px 3px 3px;
+}
+ 
+ aside {
+            text-align: center;
+ } 
+
+ .solo-1 {
+    line-height: 20px;
+    margin-left: 50px;
+ }
+ p { 
+    margin-left: 20px;
+    line-height: 25px;
+ }
+ .velox ,h4 p {
+      text-align: center;
+      display: inline-block;
+      border: 3px solid white;
+      background-color: black;
+      text-decoration: underline;
+      margin-right:  40px ;
+ }

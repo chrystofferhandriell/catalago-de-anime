@@ -1,0 +1,50 @@
+body {
+     background-image: url(Imagens/capa-fundo-shingeki-no-kiojin.jpg);
+     background-size: 100%;
+     color: white;
+     font-family: sans-serif;
+     line-height: 25px;
+}
+.dark {
+     display: inline-block;
+     margin: 20px 20px 20px 20px;
+     font-weight: bolder;
+}
+
+a:hover {
+        color: red;
+}
+
+a:visited {
+          color: yellow;
+}
+
+header h1 {
+           text-align: center;
+           text-decoration: underline;
+           font-size: 40px;
+           font-weight: 800;
+           margin-top: 70px;
+}
+
+.solo {
+             text-align: center;
+  }
+
+figure {
+      border: 3px solid white;
+      display: inline-block;
+      text-align: center;
+      background-color: black;
+}  
+.vex {
+     display: inline-block;
+     border: 3px solid white;
+     background-color: black;
+}
+
+.velox {
+        border: 3px solid white;
+        display: inline-block;
+}
+
