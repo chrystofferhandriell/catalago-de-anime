@@ -41,18 +41,20 @@ span {
  } 
 
  .solo-1 {
-    line-height: 20px;
-    margin-left: 50px;
+    line-height: 20%;
+    margin-left: 50%;
  }
  p { 
-    margin-left: 20px;
-    line-height: 25px;
+    margin-left: 20%;
+    line-height: 25%;
  }
  .velox ,h4 p {
       text-align: center;
-      display: inline-block;
+      display: flex;
       border: 3px solid white;
       background-color: black;
       text-decoration: underline;
       margin-right:  40px ;
  }
+
+ 
